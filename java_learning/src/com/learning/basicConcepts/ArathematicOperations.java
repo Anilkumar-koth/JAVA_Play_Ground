@@ -15,6 +15,8 @@ public class ArathematicOperations{
 		int result = number1 + number2;
 		System.out.println(result);
 		
+		int result2 = number1 - number2;
+		
 
 	}
 }
