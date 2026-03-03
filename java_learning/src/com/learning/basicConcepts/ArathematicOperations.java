@@ -21,5 +21,7 @@ public class ArathematicOperations{
 		int result3 = number1 * number2;
 		System.out.println(number1 + "*" +number2 + "="+ result3);
 
+		//addded new piece of code
+
 	}
 }
