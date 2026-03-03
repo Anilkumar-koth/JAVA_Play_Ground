@@ -16,9 +16,10 @@ public class ArathematicOperations{
 		System.out.println(number1 + "+" +number2 + "="+ result);
 		
 		int result2 = number1 - number2;
-		System.out.println(result2);
+		System.out.println(number1 + "-" +number2 + "="+ result2);
+		
 		int result3 = number1 * number2;
-		System.out.println(result3);
+		System.out.println(number1 + "*" +number2 + "="+ result3);
 
 	}
 }
